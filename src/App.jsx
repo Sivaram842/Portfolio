@@ -382,7 +382,7 @@ const Projects = () => {
       description: "A responsive portfolio website showcasing projects and skills with smooth animations.",
       tech: ["React", "CSS3", "Framer Motion", "Netlify"],
       image: project_3,
-      demo: "https://sivaram-portfolio.netlify.app/",
+      demo: "https://sivaramp-portfolio.netlify.app/",
       github: "https://github.com"
     }
   ];
